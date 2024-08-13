@@ -1,5 +1,5 @@
 # AI-Red-Teaming-Everything
-Welcome to the AI Red Teaming Everything repository! This repository aims to provide techniques for red teaming AI systems, focusing on safety and bias.
+Techniques for red teaming AI systems, focusing on safety and bias.
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/TakSec.svg?style=social&label=Follow%20%40TakSec)](https://twitter.com/TakSec)
 </p>
